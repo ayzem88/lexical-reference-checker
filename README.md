@@ -148,6 +148,14 @@ python run.py
 
 ## الترخيص
 
+## عن المطور
+
+**أيمن الطيّب بن نجي** ([ayzem88](https://github.com/ayzem88))
+
+خبير لغوي في معجم الدوحة التاريخي للغة العربية، مهتم بالأدوات والبرامج اللغوية، ومبرمج Vibe Coding.
+
+🌐 **الموقع الشخصي**: [aymannji.com](https://www.aymannji.com/)
+
 هذا المشروع مخصص للاستخدام الأكاديمي والبحثي.
 
 ## المطور
@@ -307,6 +315,14 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for mo
 ## License
 
 This project is intended for academic and research use.
+
+## About the Developer
+
+**Ayman Atieb ben NJi** ([ayzem88](https://github.com/ayzem88))
+
+Linguistic expert at the Historical Dictionary of the Arabic Language of Qatar (Doha Dictionary), interested in linguistic tools and software, and a Vibe Coding programmer.
+
+🌐 **Personal Website**: [aymannji.com](https://www.aymannji.com/)
 
 ## Development Approach
 

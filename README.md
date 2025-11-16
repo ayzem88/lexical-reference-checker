@@ -40,6 +40,12 @@ pip install -r requirements.txt
 pip install PyQt6
 ```
 
+## لقطات الشاشة
+
+![صورة 1](img-01.png)
+![صورة 2](img-02.png)
+![صورة 3](img-03.png)
+
 ## الاستخدام
 
 ### تشغيل التطبيق
@@ -205,6 +211,12 @@ Or directly:
 ```bash
 pip install PyQt6
 ```
+
+## Screenshots
+
+![Screenshot 1](img-01.png)
+![Screenshot 2](img-02.png)
+![Screenshot 3](img-03.png)
 
 ## Usage
 

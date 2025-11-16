@@ -2,7 +2,7 @@
 
 <div dir="rtl">
 
-## [1.0] - 2024
+## [1.0] - 2025
 
 ### المضافة
 - 41 سكريبت متخصص لفحص الأخطاء
@@ -17,7 +17,7 @@
 
 <div dir="ltr">
 
-## [1.0] - 2024
+## [1.0] - 2025
 
 ### Added
 - 41 specialized scripts for error checking

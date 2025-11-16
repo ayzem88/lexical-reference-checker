@@ -308,9 +308,17 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for mo
 
 This project is intended for academic and research use.
 
+## Development Approach
+
+I adopt the Vibe Coding paradigm in my software projects: rather than writing every line manually, I direct AI models with clear natural-language descriptions of the desired functionality, then evaluate and refine the generated code.
+
+This approach accelerates prototype and module creation, allowing me to focus more on concept and design than on low-level implementation details.
+
+In this repository you'll find tools and projects developed with this mindset — feel free to explore and contribute.
+
 ## Developer
 
-Developed by **Ayman Al-Tayyib Ben Naji** ([ayzem88](https://github.com/ayzem88))
+Developed by **Ayman Atieb ben NJi** ([ayzem88](https://github.com/ayzem88))
 
 </div>
 
